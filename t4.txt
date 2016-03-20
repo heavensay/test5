@@ -1,2 +1,6 @@
 adfgc
+<<<<<<< HEAD
 from bb
+=======
+from aaa
+>>>>>>> refs/remotes/origin/master
